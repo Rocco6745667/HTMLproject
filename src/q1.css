@@ -1,0 +1,15 @@
+/* Centering content in body */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+/* Basic text styling */
+p {
+    font-family: Arial;
+    font-size: 24px;
+}
