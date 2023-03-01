@@ -1,0 +1,6 @@
+/* 420px width and height because box is 20px */
+.main-container {
+    width: 420px;
+    height: 420px;
+    border: solid 3px black;
+}
